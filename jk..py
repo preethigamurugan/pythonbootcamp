@@ -1,0 +1,8 @@
+name=input("enter the name please")
+print(name)
+print(type(name))
+currentage=input("enter the current age")
+print(currentage)
+marriageage=input("enter the marrieage age")
+print(dob)
+print(currentage+marraiageage)
